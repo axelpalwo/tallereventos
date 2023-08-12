@@ -1,7 +1,20 @@
+div{
+    width:20vw;
+    height:5vh;
+    background-color:rgb(199, 103, 103);
+    text-align:center;
+    vertical-align:middle;
+    position:absolute;
+}
 button{
-    padding:5px;
+    position:absolute;
+    top:1vh;
+    left:25vw;
+    width:20vw;
+    height:5vh;
+    padding:20px;
     background-color:rgb(47, 173, 47);
-    border: 1px solid rgb(25, 128, 25);
+    border:none;
     color:white;
-    
+    vertical-align: middle;
 }
